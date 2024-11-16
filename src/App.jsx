@@ -12,7 +12,7 @@ import {
 import ProfilePage from "./routes/profilePage/profilePage.jsx";
 import AboutPage from "./routes/aboutPage/aboutPage.jsx";
 import ContactPage from "./routes/contactPage/contactPage.jsx";
-import ListPage from "./routes/listpage/listpage.jsx";
+import ListPage from "./routes/listpage/listPage.jsx";
 
 
 function App() {
