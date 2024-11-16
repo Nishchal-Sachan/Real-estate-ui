@@ -1,17 +1,17 @@
-import HomePage from "./routes/homepage/homePage"
-import ListPage from "./routes/listpage/listpage";
-import Layout from "./routes/layout/layout";
-import SinglePage from "./routes/singlePage/singlePage";
-import NewPostPage from "./routes/newPostPage/newPostPage";
-import ProfileUpdatePage from "./routes/profileUpdatePage/profileUpdatePage";
+import HomePage from "./routes/homepage/homePage.jsx"
+import ListPage from "./routes/listpage/listpage.jsx";
+import Layout from "./routes/layout/layout.jsx";
+import SinglePage from "./routes/singlePage/singlePage.jsx";
+import NewPostPage from "./routes/newPostPage/newPostPage.jsx";
+import ProfileUpdatePage from "./routes/profileUpdatePage/profileUpdatePage.jsx";
 
 import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import ProfilePage from "./routes/profilePage/profilePage";
-import AboutPage from "./routes/aboutPage/aboutPage";
-import ContactPage from "./routes/contactPage/contactPage";
+import ProfilePage from "./routes/profilePage/profilePage.jsx";
+import AboutPage from "./routes/aboutPage/aboutPage.jsx";
+import ContactPage from "./routes/contactPage/contactPage.jsx";
 
 
 function App() {
