@@ -21,9 +21,10 @@ function Navbar() {
             <div className="right">
                 {user ? (
                     <div className="user">
-                        <img src="Profilephoto.jpg" alt="" />
-                        <span>Nishchal Sachan</span>
+
                         <Link to="/profile" className="profile">
+                            <img src="Profilephoto.jpg" alt="" />
+                            <span>Nishchal Sachan</span>
                             <div className="notification">3</div>
                             <span>Profile</span>
                         </Link>
