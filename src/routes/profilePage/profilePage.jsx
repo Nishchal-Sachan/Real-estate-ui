@@ -18,10 +18,10 @@ function ProfilePage() {
                     <div className="info">
                         <span>
                             Avatar:
-                            <img src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
+                            <img src="Profilephoto.jpg" alt="" />
                         </span>
-                        <span>Username: <b>John Doe</b></span>
-                        <span>E-mail: <b>john@gmail.com</b></span>
+                        <span>Username: <b>Nishchal Sachan</b></span>
+                        <span>E-mail: <b>sachannishchal@gmail.com</b></span>
                     </div>
 
                     <div className="title">

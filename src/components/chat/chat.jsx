@@ -9,32 +9,32 @@ function Chat() {
             <div className="messages">
                 <h1>Messages</h1>
                 <div className="message" onClick={() => setChat(true)}>
-                    <img src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
-                    <span>John Doe</span>
+                    <img src="Profilephoto.jpg" alt="" />
+                    <span>Nishchal Sachan</span>
                     <p>Lorem ipsum dolor sit amet...</p>
                 </div>
 
                 <div className="message" onClick={() => setChat(true)}>
-                    <img src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
-                    <span>John Doe</span>
+                    <img src="Profilephoto.jpg" alt="" />
+                    <span>Nishchal Sachan</span>
                     <p>Lorem ipsum dolor sit amet...</p>
                 </div>
 
                 <div className="message" onClick={() => setChat(true)}>
-                    <img src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
-                    <span>John Doe</span>
+                    <img src="Profilephoto.jpg" alt="" />
+                    <span>Nishchal Sachan</span>
                     <p>Lorem ipsum dolor sit amet...</p>
                 </div>
 
                 <div className="message" onClick={() => setChat(true)}>
-                    <img src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
-                    <span>John Doe</span>
+                    <img src="Profilephoto.jpg" alt="" />
+                    <span>Nishchal Sachan</span>
                     <p>Lorem ipsum dolor sit amet...</p>
                 </div>
 
                 <div className="message" onClick={() => setChat(true)}>
-                    <img src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
-                    <span>John Doe</span>
+                    <img src="Profilephoto.jpg" alt="" />
+                    <span>Nishchal Sachan</span>
                     <p>Lorem ipsum dolor sit amet...</p>
                 </div>
             </div>
@@ -42,8 +42,8 @@ function Chat() {
                 <div className="chatBox">
                     <div className="top">
                         <div className="user">
-                            <img src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
-                            <span>John Doe</span>
+                            <img src="Profilephoto.jpg" alt="" />
+                            <span>Nishchal Sachan</span>
                         </div>
                         <span className="close" onClick={() => setChat(null)}>X</span>
                     </div>
