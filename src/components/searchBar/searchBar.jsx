@@ -1,5 +1,7 @@
-import { useState } from "react"
-import "./searchBar.scss"
+import { useState } from "react";
+import "./searchBar.scss";
+import { Link } from "react-router-dom";
+
 
 const types = ["buy", "rent"];
 
