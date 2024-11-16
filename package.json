@@ -1,8 +1,7 @@
 {
-  "name": "estateui",
+  "name": "sachanestate",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://dreamy-arithmetic-64ee70.netlify.app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
