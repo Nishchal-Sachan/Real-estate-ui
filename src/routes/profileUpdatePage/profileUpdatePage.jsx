@@ -34,7 +34,7 @@ function ProfileUpdatePage() {
         </form>
       </div>
       <div className="sideContainer">
-        <img src="" alt="" className="avatar" />
+        <img src="Profilephoto.jpg" alt="" className="avatar" />
       </div>
     </div>
   );
