@@ -29,7 +29,7 @@ function SearchBar() {
                 <input type="number" name="minPrice" min={0} max={1000000} placeholder="Min Price" />
                 <input type="number" name="maxPrice" min={0} max={1000000} placeholder="Max Price" />
                 <Link to="/list">
-                    <button>
+                    <button className="searchbtn">
                         <img src="./search.png" alt="" />
                     </button>
                 </Link>
