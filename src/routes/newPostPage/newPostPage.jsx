@@ -1,4 +1,5 @@
 import "./newPostPage.scss";
+import { Link } from "react-router-dom";
 
 function NewPostPage() {
   return (
@@ -101,11 +102,12 @@ function NewPostPage() {
               <label htmlFor="restaurant">Restaurant</label>
               <input min={0} id="restaurant" name="restaurant" type="number" />
             </div>
-            <button className="sendButton">Add</button>
+            <Link to="/list">
+              <button className="sendButton">Add</button>
+            </Link>
           </form>
         </div>
       </div>
-      <div className="sideContainer"></div>
     </div>
   );
 }
