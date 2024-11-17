@@ -3,7 +3,7 @@ import "./filter.scss"
 function Filter() {
     return (
         <div className="filter">
-            <h1>Search results for <b>London</b></h1>
+            <h1>Search results for <b>India</b></h1>
             <div className="top">
                 <div className="item">
                     <label htmlFor="city">Location</label>
